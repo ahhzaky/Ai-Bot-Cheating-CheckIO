@@ -1,0 +1,18 @@
+Goal
+1. Lavel up the account. Solve tasks)
+
+Hw to do it?
+1.check for exiting solutions in google.
+
+Logic:
+1. open browser, Login dan masuk ke main CheckIO page.
+2. Dapatkan info tentang semua link pulau
+3. pergi ke salah satu pulau dengan link.
+4. dapatkan semua info tentang all tasks dari arus island. (titles, links, and if_solve)
+5. pergi ke link dari task dan temukan solusi dari task tersebut.
+6. Go ke task url + /solve/ + paste solusi
+7. Click check:
+    7.1 TASK SOLVE => pindah ke next task (repeat algorithm)
+    7.2 TASK NOT SOLVE => pergi ke point 5. (5 coba MAX, lalu Skip)
+8. jika semua task selesai pindah dari pulau atau skipped lalu pergi ke point 2.
+
