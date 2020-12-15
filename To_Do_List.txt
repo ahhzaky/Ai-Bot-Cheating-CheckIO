@@ -16,3 +16,5 @@ Logic:
     7.2 TASK NOT SOLVE => pergi ke point 5. (5 coba MAX, lalu Skip)
 8. jika semua task selesai pindah dari pulau atau skipped lalu pergi ke point 2.
 
+use chrome driver : https://chromedriver.storage.googleapis.com/index.html?path=87.0.4280.88/
+
