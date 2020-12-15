@@ -1,3 +1,7 @@
+### Preparation before it starts
+
+You must have an account at https://checkio.org/
+
 ### Install Requirements
 
 ```sh
