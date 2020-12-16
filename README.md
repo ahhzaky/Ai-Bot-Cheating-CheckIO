@@ -22,7 +22,7 @@ File `secrets.json`
 ### Run Script
 
 ```buildoutcfg
-python3 checkio.py
+python3 checkio_bot.py
 ```
 
 Reference learn from [Jakobowsky](https://youtu.be/_3gL1zOrmik)
